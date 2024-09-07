@@ -52,13 +52,13 @@ Imagem de fundo utilizada na aplicação.
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/CaiqueSF/codigo-aberto.git
     ```
 
 2. Navegue para o diretório do projeto:
 
     ```bash
-    cd seu-repositorio
+    cd codigo-aberto
     ```
 
 3. Abra o arquivo `index.html` em um navegador.
