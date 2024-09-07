@@ -4,7 +4,7 @@
 /* Estiliza o corpo da página */
 body {
     font-family: "Chakra Petch", sans-serif; /* Define a fonte padrão */
-    background-image: url("images/img3.jpg"); /* Adiciona a imagem como fundo */
+    background-image: url("images/img1.jpg"); /* Adiciona a imagem como fundo */
     background-size: cover; /* Faz a imagem cobrir toda a área */
     background-repeat: no-repeat; /* Impede a repetição da imagem */
     background-position: center center; /* Centraliza a imagem */
