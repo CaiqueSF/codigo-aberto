@@ -1,4 +1,4 @@
-# Tecnologia da Informação
+# Código Aberto
 
 ## Descrição
 
