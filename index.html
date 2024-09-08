@@ -22,6 +22,18 @@
             <button onclick="pesquisar()">Pesquisar</button>
         </section>
 
+        <script>
+            // Evento keydown para detectar quando uma tecla é pressionada
+            document.getElementById("campo-pesquisa").addEventListener("keydown", function(event) {
+                
+              // Verifica se a tecla pressionada é a tecla Enter
+              if (event.key === "Enter") { 
+                event.preventDefault();
+                pesquisar();
+              };
+            });
+          </script>
+
         <section class="resultados-pesquisa" id="resultados-pesquisa"></section>
 
     </main>
