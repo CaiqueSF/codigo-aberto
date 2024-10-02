@@ -8,7 +8,15 @@ O projeto **"Tecnologia da Informação"** é uma aplicação web desenvolvida p
 
 O projeto é estruturado da seguinte forma:
 
-. ├── index.html ├── style.css ├── app.js ├── dados.js └── images/ └── img1.jpg
+```
+.
+├── index.html
+├── style.css
+├── app.js
+├── dados.js
+└── images/
+    └── img1.jpg
+```
 
 ### `index.html`
 

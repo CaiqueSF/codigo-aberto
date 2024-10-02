@@ -1,117 +1,121 @@
 let listaDados = [
     {
         linguagem: "Python - A Versatilidade em um Código Elegante",
-        descricao: "Python é uma linguagem de programação fácil de aprender e muito versátil. É perfeita para quem está começando a programar ou para quem busca construir projetos complexos como modelos de inteligência artificial. Com Python, você pode automatizar tarefas, analisar dados e criar sistemas inteligentes. Sua sintaxe clara e a vasta quantidade de bibliotecas disponíveis tornam a programação em Python uma experiência prazerosa e produtiva.",
+        descricao: "Python é uma linguagem fácil de aprender, ideal para iniciantes e projetos complexos como inteligência artificial. Com ela, você pode automatizar tarefas, analisar dados e criar sistemas inteligentes. Sua sintaxe clara e o grande número de bibliotecas disponíveis tornam a programação em Python produtiva e agradável.",
         link: "https://www.python.org/",
         tags: "estatística análise de dados data science machine learning"
     },
     {
         linguagem: "C# - A Potência da Plataforma .NET",
-        descricao: "Ideal para criar aplicações robustas e escaláveis, especialmente para Windows e jogos. Com o C# e a plataforma .NET, você pode desenvolver desde simples aplicativos até grandes jogos utilizando a Unity. A linguagem oferece um ecossistema rico de ferramentas e bibliotecas, tornando-a uma excelente opção para projetos profissionais.",
+        descricao: "C# é perfeito para desenvolver aplicações robustas, especialmente para Windows e jogos. Utilizando a plataforma .NET, você pode criar desde apps simples até jogos avançados. É uma linguagem muito usada no desenvolvimento profissional.",
         link: "https://learn.microsoft.com/pt-br/dotnet/csharp/",
-        tags: ".net asp.net microsoft."
+        tags: ".net asp.net microsoft"
     },
     {
         linguagem: "JavaScript - A Linguagem do Navegador e Além",
-        descricao: "Essencial para o desenvolvimento web, o JavaScript permite criar sites dinâmicos e interativos. Mas sua aplicação vai além do front-end: com Node.js, você pode construir servidores web e criar aplicações completas. Frameworks como React e Angular facilitam a criação de interfaces de usuário complexas e modernas. A comunidade ativa e a versatilidade da linguagem a tornam uma escolha popular para diversos projetos.",
+        descricao: "JavaScript é essencial para criar sites dinâmicos e interativos. Além do front-end, com Node.js, você também pode criar servidores e aplicações completas. Ferramentas como React e Angular facilitam o desenvolvimento de interfaces modernas.",
         link: "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript",
         tags: "js"
     },
     {
         linguagem: "Java - A Linguagem do Mundo Corporativo",
-        descricao: "Java é uma linguagem orientada a objetos amplamente utilizada em aplicações empresariais, desenvolvimento Android e sistemas distribuídos. Conhecida por sua portabilidade e segurança, Java é uma excelente escolha para grandes projetos.",
-        link: "https://www.oracle.com/java/"
+        descricao: "Java é muito utilizada em grandes empresas, no desenvolvimento de apps Android e sistemas distribuídos. Sua segurança e portabilidade fazem dela uma excelente escolha para projetos de grande escala.",
+        link: "https://www.oracle.com/java/",
+        tags: ""
     },
     {
         linguagem: "C++ - A Linguagem de Alto Desempenho",
-        descricao: "C++ é uma linguagem poderosa, utilizada em desenvolvimento de sistemas, jogos, software de engenharia e muito mais. Oferece alto controle sobre o hardware e é ideal para aplicações que exigem desempenho máximo.",
+        descricao: "C++ é usada para desenvolvimento de sistemas, jogos e software de engenharia. Oferece controle detalhado sobre o hardware e é ideal para aplicações que exigem máximo desempenho.",
         link: "https://isocpp.org/",
         tags: "jogos"
     },
     {
         linguagem: "Go - A Linguagem Simples e Eficiente",
-        descricao: "Go, desenvolvida pelo Google, é uma linguagem compilada, rápida e concisa, ideal para desenvolvimento de sistemas distribuídos, aplicações em nuvem e serviços da web.",
+        descricao: "Go, criada pelo Google, é uma linguagem rápida e eficiente, ideal para aplicações em nuvem e sistemas distribuídos. Sua simplicidade facilita a construção de serviços web escaláveis.",
         link: "https://go.dev/",
         tags: "google"
     },
     {
         linguagem: "Ruby - A Linguagem da Programação Feliz",
-        descricao: "Ruby é uma linguagem interpretada, de alto nível e orientada a objetos, conhecida por sua sintaxe elegante e expressiva. É amplamente utilizada em desenvolvimento web com o framework Ruby on Rails.",
+        descricao: "Ruby é uma linguagem com sintaxe elegante, usada principalmente no desenvolvimento web com Ruby on Rails. É conhecida por tornar o processo de programação mais simples e prazeroso.",
         link: "https://www.ruby-lang.org/",
         tags: "rails"
     },
     {
-        linguagem: "Swift - A Linguagem do Futuro para iOS e macOS",
-        descricao: "Swift é uma linguagem de programação desenvolvida pela Apple para criar aplicativos para iOS, macOS, watchOS e tvOS. Conhecida por sua segurança e performance, Swift é uma ótima opção para desenvolvedores iOS.",
+        linguagem: "Swift - A Linguagem para iOS e macOS",
+        descricao: "Swift, criada pela Apple, é a principal linguagem para o desenvolvimento de apps em iOS e macOS. É conhecida por sua segurança, alta performance e excelente suporte para desenvolvimento de aplicativos Apple.",
         link: "https://swift.org/",
         tags: "ios macos watchOS tvOS"
     },
     {
         linguagem: "PHP - A Linguagem do WordPress",
-        descricao: "PHP é uma linguagem interpretada, especialmente projetada para desenvolvimento web. É amplamente utilizada em sistemas de gerenciamento de conteúdo como o WordPress.",
+        descricao: "PHP é amplamente utilizado em desenvolvimento web, especialmente em sistemas de gerenciamento de conteúdo como WordPress. É uma linguagem server-side fácil de integrar com bancos de dados.",
         link: "https://www.php.net/",
         tags: "wordpress"
     },
     {
         linguagem: "Rust - A Linguagem Segura e Concorrente",
-        descricao: "Rust é uma linguagem de programação sistêmica focada em segurança e concorrência. É utilizada em projetos que exigem alto desempenho e confiabilidade.",
-        link: "https://www.rust-lang.org/"
+        descricao: "Rust é focada em segurança e concorrência. Ideal para projetos de alta performance que exigem confiabilidade e segurança, como sistemas operacionais e aplicações críticas.",
+        link: "https://www.rust-lang.org/",
+        tags: ""
     },
     {
         linguagem: "Kotlin - A Linguagem Moderna para o Desenvolvimento Android",
-        descricao: "Kotlin é uma linguagem moderna e concisa, projetada para interoperar com Java. É amplamente utilizada no desenvolvimento Android e back-end.",
+        descricao: "Kotlin é a linguagem preferida para desenvolvimento Android, conhecida por sua concisão e interoperabilidade com Java. Facilita o desenvolvimento de apps modernos e eficientes.",
         link: "https://kotlinlang.org/",
         tags: "android"
     },
     {
         linguagem: "TypeScript - JavaScript com Tipagem Estática",
-        descricao: "TypeScript é um superconjunto do JavaScript que adiciona tipagem estática, oferecendo maior segurança e escalabilidade para projetos JavaScript.",
+        descricao: "TypeScript melhora o desenvolvimento em JavaScript ao adicionar tipagem estática, permitindo mais segurança e melhor escalabilidade para grandes projetos.",
         link: "https://www.typescriptlang.org/",
         tags: "ts"
     },
     {
         linguagem: "Scala - A Linguagem Funcional para a JVM",
-        descricao: "Scala é uma linguagem de programação funcional que roda na JVM, combinando programação funcional e orientada a objetos.",
+        descricao: "Scala combina programação funcional e orientada a objetos, sendo executada na JVM. É ideal para aplicações que exigem alta escalabilidade e desempenho.",
         link: "https://www.scala-lang.org/",
         tags: "jvm"
     },
     {
         linguagem: "R - Para Estatística e Análise de Dados",
-        descricao: "R é uma linguagem e ambiente de software livre para computação estatística e gráficos. É amplamente utilizada em data science e machine learning.",
+        descricao: "R é amplamente utilizado em estatística e data science, sendo uma linguagem poderosa para análise de dados e visualização. Ideal para cientistas de dados e pesquisadores.",
         link: "https://www.r-project.org/",
         tags: "estatística análise de dados data science machine learning"
     },
     {
         linguagem: "Perl - A Linguagem da Ferramenta",
-        descricao: "Perl é uma linguagem de scripting generalista, conhecida por sua flexibilidade e poder de processamento de texto.",
-        link: "https://www.perl.org/"
+        descricao: "Perl é conhecida por sua flexibilidade, ideal para automação de tarefas e processamento de texto. Frequentemente usada para scripts rápidos e manipulação de arquivos.",
+        link: "https://www.perl.org/",
+        tags: ""
     },
     {
         linguagem: "Lua - A Linguagem Leve e Embutível",
-        descricao: "Lua é uma linguagem de scripting leve e extensível, frequentemente usada em jogos e aplicações embarcadas.",
+        descricao: "Lua é uma linguagem leve usada em desenvolvimento de jogos e sistemas embarcados. Sua simplicidade e eficiência a tornam uma ótima escolha para scripts embutidos.",
         link: "https://www.lua.org/",
         tags: "jogos embarcados"
     },
     {
         linguagem: "Haskell - A Linguagem Funcional Pura",
-        descricao: "Haskell é uma linguagem funcional pura com um sistema de tipos forte, ideal para aplicações que exigem alta confiabilidade e corretude.",
-        link: "https://www.haskell.org/"
+        descricao: "Haskell é uma linguagem funcional pura, com um sistema de tipos forte. É ideal para projetos que exigem alta confiabilidade e manutenção de código claro e correto.",
+        link: "https://www.haskell.org/",
+        tags: ""
     },
     {
         linguagem: "Dart - A Linguagem para Flutter",
-        descricao: "Dart é uma linguagem de programação cliente-servidor desenvolvida pelo Google. É usada principalmente para construir aplicativos móveis com o framework Flutter, mas também pode ser usada para desenvolvimento web.",
+        descricao: "Dart é usada principalmente com o Flutter para criar aplicativos móveis e web. Desenvolvida pelo Google, combina simplicidade com performance para construção de apps multiplataforma.",
         link: "https://dart.dev/",
         tags: "google flutter"
     },
     {
         linguagem: "Julia - Para Ciência de Dados e Computação Científica",
-        descricao: "Julia é uma linguagem de programação de alto nível, de alto desempenho, dinâmica e de propósito geral. É especialmente projetada para computação numérica e científica.",
+        descricao: "Julia é uma linguagem de alto desempenho voltada para computação científica. Ideal para trabalhos com grandes volumes de dados e cálculos complexos.",
         link: "https://julialang.org/",
         tags: "computacao cientifica"
     },
     {
         linguagem: "Elixir - A Linguagem Funcional para a Máquina Virtual Erlang",
-        descricao: "Elixir é uma linguagem funcional que roda na máquina virtual Erlang, construída para construir sistemas distribuídos e tolerantes a falhas.",
+        descricao: "Elixir é uma linguagem funcional projetada para rodar na máquina virtual Erlang. É usada para construir sistemas distribuídos e altamente tolerantes a falhas.",
         link: "https://elixir-lang.org/",
         tags: "erlang"
     }
