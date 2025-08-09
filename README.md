@@ -1,12 +1,18 @@
 # Código Aberto
 
-## Descrição
+Acesse a versão online do projeto aqui: [Código Aberto](https://caiquesf.github.io/codigo-aberto/)
+
+## ➡ Linguagens Utilizadas
+
+HTML, CSS e JavaScript: Linguagens principais utilizadas para o desenvolvimento da aplicação web.
+
+## ➡ Objetivo do Projeto
 
 O projeto **"Tecnologia da Informação"** é uma aplicação web desenvolvida para ajudar os usuários a encontrar informações sobre diversas linguagens de programação. O projeto permite que os usuários pesquisem por linguagens e visualizem informações relevantes sobre elas. A aplicação é responsiva e possui um design moderno com um fundo de imagem e uma interface amigável.
 
-## Estrutura do Projeto
+## ➡ Estrutura do Projeto
 
-O projeto é estruturado da seguinte forma:
+A estrutura do projeto está organizada da seguinte forma:
 
 ```
 .
@@ -49,57 +55,63 @@ Um arquivo JavaScript que deve conter os dados a serem pesquisados e exibidos. E
 
 Imagem de fundo utilizada na aplicação.
 
-## Funcionalidades
+## ➡ Funcionalidades do Projeto
 
--   **Busca**: Permite que os usuários pesquisem por linguagens de programação.
--   **Exibição de Resultados**: Mostra informações sobre as linguagens que correspondem à pesquisa.
--   **Mensagens de Erro**: Exibe mensagens quando a pesquisa não retorna resultados ou quando o campo de pesquisa está vazio.
+🔹 **Busca**: Permite que os usuários pesquisem por linguagens de programação.
 
-## Como Executar o Projeto
+🔹 **Exibição de Resultados**: Mostra informações sobre as linguagens que correspondem à pesquisa.
+
+🔹 **Mensagens de Erro**: Exibe mensagens quando a pesquisa não retorna resultados ou quando o campo de pesquisa está vazio.
+
+## ➡ Como Executar o Projeto
+
+**Siga os passos abaixo para executar o projeto:**
 
 1. Clone o repositório:
 
-    ```bash
-    git clone https://github.com/CaiqueSF/codigo-aberto.git
-    ```
+`bash
+    git clone [https://github.com/CaiqueSF/codigo-aberto.git](https://github.com/CaiqueSF/codigo-aberto.git)
+    `
 
 2. Navegue para o diretório do projeto:
 
-    ```bash
-    cd codigo-aberto
-    ```
+`bash
+    cd codigo-aberto
+    `
 
 3. Abra o arquivo `index.html` em um navegador.
 
-## Contribuindo
+## ➡ Contribuindo
 
-Se você deseja contribuir para o projeto, siga estas etapas:
+**Se você deseja contribuir para o projeto, siga estas etapas:**
 
 1. Faça um fork do repositório.
 
 2. Crie uma nova branch:
 
-    ```bash
-    git checkout -b minha-nova-feature
-    ```
+`bash
+    git checkout -b [nome-da-sua-branch]
+    `
 
 3. Faça suas alterações e commit:
 
-    ```bash
-    git add .
-    git commit -m "Adiciona nova feature"
-    ```
+`bash
+    git add .
+    git commit -m "[Descrição das suas alterações]"
+    `
 
 4. Envie suas alterações para o repositório remoto:
 
-    ```bash
-    git push origin minha-nova-feature
-    ```
+`bash
+    git push origin [nome-da-sua-branch]
+    `
 
 5. Abra um Pull Request no GitHub.
 
-## Contato
+## ➡ Contatos
 
--   **E-mail**: caiquedesousaferreira@gmail.com
--   **LinkedIn**: [Caíque de S. Ferreira](https://www.linkedin.com/in/ca%C3%ADque-de-s-ferreira-48105b18b/)
--   **GitHub**: [CaiqueSF](https://github.com/CaiqueSF)
+🔹 **E-mail**: caiquedesousaferreira@gmail.com
+
+🔹 **LinkedIn**: [Caíque de S. Ferreira](https://www.linkedin.com/in/ca%C3%ADque-de-s-ferreira-48105b18b/)
+
+🔹 **GitHub**: [CaiqueSF](https://github.com/CaiqueSF)
