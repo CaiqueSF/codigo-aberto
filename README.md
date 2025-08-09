@@ -2,7 +2,7 @@
 
 Acesse a versão online do projeto aqui: [Código Aberto](https://caiquesf.github.io/codigo-aberto/)
 
-## ➡ Linguagens Utilizadas
+## ➡ Tecnologias Utilizadas
 
 HTML, CSS e JavaScript: Linguagens principais utilizadas para o desenvolvimento da aplicação web.
 
